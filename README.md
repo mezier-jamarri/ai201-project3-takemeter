@@ -1,6 +1,6 @@
 # TakeMeter — `r/ufc` Discourse Classifier
 
-**Demo Video:** [Watch the 3–5 Minute Demo Video Here](INSERT_DEMO_VIDEO_LINK)  
+**Demo Video:**(https://drive.google.com/file/d/1cRQJX1iSLo_BsSkyXMLLkeZnXva-pgVl/view?usp=sharing)  
 **Labeled Dataset:** [`ufc_dataset.csv`](./ufc_dataset.csv)  
 **Planning Spec:** [`planning.md`](./planning.md)  
 **Evaluation Outputs:** [`evaluation_results.json`](./evaluation_results.json) | [`confusion_matrix.png`](./confusion_matrix.png)
